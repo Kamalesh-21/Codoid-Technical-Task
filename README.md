@@ -2,4 +2,4 @@
 Responsive Website Task
 
 Demo Screenshots
-![TANTUM](https://github.com/Kamalesh-21/Codoid-Technical-Task/assets/156495988/0f02d156-3a74-45d7-929a-8e96979c9418)
+![DEMO](https://github.com/Kamalesh-21/Codoid-Technical-Task/assets/156495988/8a715b38-601c-45c6-b80f-9e6c3613d941)
